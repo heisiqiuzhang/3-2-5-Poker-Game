@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c5bf7e7-43b0-465b-91b9-db8c4bf2d9b3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eqsl4kjXwWHXTKuOKzKPfgrZXX" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="profiler.jvm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lwt.model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainClient">
+    <configuration name="MainClient" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="com.lwt.view.Main" />
+      <module name="Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lwt.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainServer" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.lwt.view.Main" />
+      <module name="Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lwt.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainServer" />
+      <item itemvalue="Application.MainClient" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c5bf7e7-43b0-465b-91b9-db8c4bf2d9b3" name="Default Changelist" comment="" />
+      <created>1595060604381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595060604381</updated>
+      <workItem from="1595060609321" duration="12345000" />
+      <workItem from="1595150076498" duration="200000" />
+      <workItem from="1595225013054" duration="18173000" />
+      <workItem from="1595293734407" duration="703000" />
+      <workItem from="1595301951773" duration="26000" />
+      <workItem from="1595328206860" duration="22097000" />
+      <workItem from="1595380251277" duration="29000" />
+      <workItem from="1595380301688" duration="8000" />
+      <workItem from="1595415737267" duration="6611000" />
+      <workItem from="1595501853468" duration="6772000" />
+      <workItem from="1595641220057" duration="22862000" />
+      <workItem from="1595830204272" duration="11000" />
+      <workItem from="1595846761372" duration="9925000" />
+      <workItem from="1595933432567" duration="11000000" />
+      <workItem from="1596004247247" duration="19000" />
+      <workItem from="1596021914809" duration="3673000" />
+      <workItem from="1596092690415" duration="184000" />
+      <workItem from="1596106260443" duration="8800000" />
+      <workItem from="1596158494993" duration="4926000" />
+      <workItem from="1596244691428" duration="18034000" />
+      <workItem from="1596434847433" duration="16000" />
+      <workItem from="1596525227448" duration="11016000" />
+      <workItem from="1596594229468" duration="9271000" />
+      <workItem from="1596699365268" duration="5931000" />
+      <workItem from="1596803771429" duration="4349000" />
+      <workItem from="1596853238318" duration="18150000" />
+      <workItem from="1597111201367" duration="187000" />
+      <workItem from="1597404402679" duration="1617000" />
+      <workItem from="1597471918043" duration="23575000" />
+      <workItem from="1597662319072" duration="6499000" />
+      <workItem from="1597746950417" duration="14321000" />
+      <workItem from="1597990296337" duration="11599000" />
+      <workItem from="1598009582637" duration="4632000" />
+      <workItem from="1598062898950" duration="623000" />
+      <workItem from="1598352261393" duration="147000" />
+      <workItem from="1598438830810" duration="9175000" />
+      <workItem from="1598526255920" duration="7311000" />
+      <workItem from="1598611818974" duration="3332000" />
+      <workItem from="1598615187044" duration="37000" />
+      <workItem from="1598684565321" duration="47000" />
+      <workItem from="1598940195188" duration="1112000" />
+      <workItem from="1599644068732" duration="755000" />
+      <workItem from="1599729547704" duration="1413000" />
+      <workItem from="1599805154230" duration="2186000" />
+      <workItem from="1599812947571" duration="1928000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

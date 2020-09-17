@@ -1,7 +1,7 @@
 # 3-2-5-Poker-Game
 这是一款5人游戏的扑克游戏，是山西省汾阳市的一种玩法，类似于将斗地主的牌规与三国杀的身份识别、输赢规则结合后的一款游戏。
 
-![image](https://github.com/heisiqiuzhang/3-2-5-Poker-Game/blob/master/Picture/picture1.jpg)
+![image](https://github.com/heisiqiuzhang/3-2-5-Poker-Game/blob/master/Game_Screenshot/picture1.jpg)
 1、角色确定：
     比赛时由两方对抗一方，对抗性强，配合要求高。该游戏由五个人玩，用一副牌共54张牌。
     
